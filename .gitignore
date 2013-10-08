@@ -106,3 +106,17 @@ Generated_Code #added for RIA/Silverlight projects
 _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
+
+.DS_Store
+*/bin
+*.swp
+*.lock
+FieldTestingWithMap.suo
+*.log
+profile
+
+field-testing-mapview/FieldTestingWithMap/bin/
+field-testing-mapview/FieldTestingWithMap/obj/
+field-testing-mapview/_ReSharper.FieldTestingWithMap/
+**/xcuserdata/*
+
